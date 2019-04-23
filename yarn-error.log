@@ -1,0 +1,33 @@
+Arguments: 
+  /home/junior/.nvm/versions/node/v10.15.3/bin/node /home/junior/.nvm/versions/node/v10.15.3/bin/yarn add express
+
+PATH: 
+  /home/junior/.nvm/versions/node/v10.15.3/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+
+Yarn version: 
+  1.15.2
+
+Node version: 
+  10.15.3
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND registry.yarnpkg.com registry.yarnpkg.com:443
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:56:26)
+
+npm manifest: 
+  {
+    "name": "desafio1",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Junior G. Silva",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
